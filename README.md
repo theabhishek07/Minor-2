@@ -1,1 +1,1 @@
-# Minor-2
+# Chest X-Ray analyser
